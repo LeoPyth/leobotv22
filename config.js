@@ -7,16 +7,16 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['6282xxxxxx']  // isi jika perlu
-global.mods = ['6282xxxxxx']   // isi jika perlu
-global.prems = ['6282xxxxxx']  // isi jika perlu
+global.owner = ['6287824899711']  // isi jika perlu
+global.mods = ['6287824899711']   // isi jika perlu
+global.prems = ['6287824899711']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
 global.nameowner = '⫹⫺ OWNER' // isi nama kalian bebas
-global.numberowner = '6282xxxxxx' // isi nomor kalian dengan awalan seperti di contoh 
-global.dana = '6282xxxxxx' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6282xxxxxx' // isi dengan nomor pulsa hp kalian
-global.gopay = '6282xxxxxx'
+global.numberowner = '6287824899711' // isi nomor kalian dengan awalan seperti di contoh 
+global.dana = '6287824899711' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '6287824899711' // isi dengan nomor pulsa hp kalian
+global.gopay = '-'
 
 //Name Bot & Grouplink//
 global.namebot = 'R-txzyMd'
